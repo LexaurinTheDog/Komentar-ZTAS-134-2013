@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona a výklad citované v kapitolách [01-zmena-formy-akcii.md](01-zmena-formy-akcii.md) a [02-novely-obchz-zcp-zpkt.md](02-novely-obchz-zcp-zpkt.md), vycházející z konsolidace `SB-2013-00134_2013-06-30`. Repozitář neobsahuje složku `judikatura/` a kapitoly necitují žádná konkrétní soudní rozhodnutí; zásady níže jsou proto dovozeny výhradně z textu zákona, jeho systematiky a výkladu v kapitolách — nikoli z judikatorních tezí. Zákon je převážně předpisem jednorázové aplikace vázaným na pevná data (1. 1. 2014 a 30. 6. 2014) a jeho novelizační části jsou vyčerpané; zásady proto popisují zejména pravidla, podle nichž se dnes posuzuje **forma akcie**, **postavení akcionáře v prodlení** a **trvalý režim identifikace akcionářů**, který z novel přešel do dnešní úpravy.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona a výklad citované v kapitolách [01-zmena-formy-akcii.md](01-zmena-formy-akcii.md) a [02-novely-obchz-zcp-zpkt.md](02-novely-obchz-zcp-zpkt.md), vycházející z konsolidace `SB-2013-00134_2013-06-30`. Složka `judikatura/` obsahuje jedinou místní kartu — [NS 27 Cdo 1795/2018](judikatura/NS-27-Cdo-1795-2018.md) — kterou kapitoly citují u § 2, § 3, § 4, § 5 a § 8. Zásady níže jsou dovozeny z textu zákona, jeho systematiky a výkladu v kapitolách; karta je připojena jen k zásadě 5, kterou přímo podpírá. Karta obsahuje jen právní větu bez skutkového kontextu, proto se cituje jen v jejím rozsahu. Zákon je převážně předpisem jednorázové aplikace vázaným na pevná data (1. 1. 2014 a 30. 6. 2014) a jeho novelizační části jsou vyčerpané; zásady proto popisují zejména pravidla, podle nichž se dnes posuzuje **forma akcie**, **postavení akcionáře v prodlení** a **trvalý režim identifikace akcionářů**, který z novel přešel do dnešní úpravy.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení. U každé citace je uveden soubor a ustanovení, k němuž se váže.
 
@@ -143,7 +143,7 @@ Praktickým důsledkem zásady je, že spory o přeměněné akcie se nevedou o 
 
 ## 5. Pevná zákonná lhůta a informační povinnost společnosti
 
-**Zakotvení:** § 3 odst. 1 a 2, § 7 odst. 4, § 9
+**Zakotvení:** § 3 odst. 1 a 2, § 7 odst. 4, § 9; místní karta [NS 27 Cdo 1795/2018](judikatura/NS-27-Cdo-1795-2018.md)
 
 Povinnosti akcionářů a jejich lhůtu stanoví přímo zákon ([01-zmena-formy-akcii.md](01-zmena-formy-akcii.md), § 3 odst. 1):
 
@@ -159,9 +159,15 @@ Pevnou lhůtu vyvažuje informační povinnost společnosti ([01-zmena-formy-akc
 
 > „Nejpozději 3 měsíce před uplynutím lhůty podle odstavce 1 společnost uveřejní způsobem určeným pro svolání valné hromady společnosti výzvu k předložení akcií a oznámení o následcích spojených s prodlením podle odstavce 1 a § 4.“
 
-Obě povinnosti jsou však na sobě nezávislé ([01-zmena-formy-akcii.md](01-zmena-formy-akcii.md), § 3, výkladová otázka):
+Obě povinnosti jsou však na sobě nezávislé ([01-zmena-formy-akcii.md](01-zmena-formy-akcii.md), § 3, výzva a nástup sankce):
 
 > „Text váže prodlení výhradně na zákonnou lhůtu v odst. 1, nikoli na výzvu; výzva je samostatnou povinností společnosti, jejíž porušení zakládá odpovědnost členů představenstva, nikoli posun zákonné lhůty.“
+
+Nezávislost sankce na výzvě potvrzuje místní judikaturní karta [NS 27 Cdo 1795/2018](judikatura/NS-27-Cdo-1795-2018.md) (31. 10. 2018, kat. A), kterou kapitola 1 cituje u § 3 ([01-zmena-formy-akcii.md](01-zmena-formy-akcii.md), § 3, právní věta karty):
+
+> „Sankce spočívající ve ztrátě oprávnění vykonávat práva spojená s akciemi, které akcionáři do 30. 6. 2014 nepředložili k vyznačení nezbytných údajů nebo k výměně za nové akcie na jméno ve smyslu § 3 odst. 1 zákona č. 134/2013 Sb., nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost vyzvala akcionáře, aby jí akcie předložili, respektive na to, jakou lhůtu jim k tomu společnost stanovila“
+
+Karta tak přímo podpírá jádro zásady: zákonná lhůta je pevná a její uplynutí spouští sankci bez ohledu na výzvu i na lhůtu určenou společností. Dosah karty je však omezený — obsahuje jen právní větu bez skutkového kontextu, výslovně se týká nepředložení akcií (nikoli nesdělení údajů pro seznam akcionářů) a neřeší následky porušení informační povinnosti společnosti; ty dovozuje jen komentář.
 
 Informační povinnost musí skutečně zastihnout dosavadní majitele, proto § 7 odst. 4 vyžaduje kumulaci způsobů uveřejnění. Komentář vysvětluje důvod ([01-zmena-formy-akcii.md](01-zmena-formy-akcii.md), § 7 odst. 4):
 
@@ -171,7 +177,7 @@ Stejné spojení povinnosti akcionáře s upozorněním ze strany společnosti v
 
 > „společnost upozorní akcionáře na tuto povinnost oznámením uveřejněným společně s pozvánkou na valnou hromadu“
 
-Praktickým důsledkem zásady je, že akcionář se nemůže zprostit následků prodlení poukazem na opožděnou nebo vadnou výzvu; vadná výzva zakládá nanejvýš nárok na náhradu újmy vůči společnosti, resp. odpovědnost členů představenstva.
+Praktickým důsledkem zásady je, že akcionář se nemůže zprostit následků prodlení poukazem na opožděnou, vadnou nebo chybějící výzvu — u sankce podle § 3 odst. 1 to výslovně stanoví místní karta NS 27 Cdo 1795/2018; vadná výzva zakládá podle komentáře nanejvýš nárok na náhradu újmy vůči společnosti, resp. odpovědnost členů představenstva, což karta neřeší.
 
 ## 6. Dočasnost sankce a restriktivní výklad zásahu do majetkových práv
 

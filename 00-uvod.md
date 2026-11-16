@@ -2,7 +2,7 @@
 
 > **Znění účinné od 30. června 2013** (dokument e-Sbírky `SB-2013-00134_2013-06-30`; místní zdroj neuvádí konec jeho účinnosti a pozdější novely místně k dispozici nejsou). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Zákon č. 134/2013 Sb. (dále „**ZTAS**“ nebo „**zákon**“) je převážně **předpisem jednorázové aplikace**: listinné neimobilizované akcie na majitele se změnily na listinné akcie na jméno přímo ze zákona k 1. lednu 2014 a lhůty k předložení akcií, sdělení údajů pro seznam akcionářů, úpravě stanov a podání návrhu na zápis do obchodního rejstříku uplynuly 30. června 2014. Novelizační ustanovení (§ 8, § 10 a § 11) jsou svou aplikací vyčerpaná; obchodní zákoník a zákon o cenných papírech, které měnila, byly k 1. lednu 2014 zrušeny občanským zákoníkem (§ 3080 body 72 a 187). Komentář to otevřeně uvádí a soustřeďuje se na **trvající význam** ustanovení — pro posouzení poměrů z přechodného období (zda a kdy se akcie změnila, zda byl akcionář v prodlení, zda mu vzniklo právo na dividendu), pro listiny, které dosud nesou původní označení „na majitele“, a pro dnešní úpravu v zákoně o obchodních korporacích, občanském zákoníku a zákoně o podnikání na kapitálovém trhu, do níž obsah novel přešel. Srovnání s dnešní úpravou vychází z místních konsolidací těchto předpisů (místní konsolidace zákona o podnikání na kapitálovém trhu je účinná od 11. 1. 2026 do 9. 7. 2026). Kapitoly necitují žádná konkrétní soudní rozhodnutí a tento úvod žádné spisové značky nedoplňuje; výklad stojí na textu zákona, jeho systematice a souvislostech s dalšími předpisy.
+> **Metodická poznámka:** Zákon č. 134/2013 Sb. (dále „**ZTAS**“ nebo „**zákon**“) je převážně **předpisem jednorázové aplikace**: listinné neimobilizované akcie na majitele se změnily na listinné akcie na jméno přímo ze zákona k 1. lednu 2014 a lhůty k předložení akcií, sdělení údajů pro seznam akcionářů, úpravě stanov a podání návrhu na zápis do obchodního rejstříku uplynuly 30. června 2014. Novelizační ustanovení (§ 8, § 10 a § 11) jsou svou aplikací vyčerpaná; obchodní zákoník a zákon o cenných papírech, které měnila, byly k 1. lednu 2014 zrušeny občanským zákoníkem (§ 3080 body 72 a 187). Komentář to otevřeně uvádí a soustřeďuje se na **trvající význam** ustanovení — pro posouzení poměrů z přechodného období (zda a kdy se akcie změnila, zda byl akcionář v prodlení, zda mu vzniklo právo na dividendu), pro listiny, které dosud nesou původní označení „na majitele“, a pro dnešní úpravu v zákoně o obchodních korporacích, občanském zákoníku a zákoně o podnikání na kapitálovém trhu, do níž obsah novel přešel. Srovnání s dnešní úpravou vychází z místních konsolidací těchto předpisů (místní konsolidace zákona o podnikání na kapitálovém trhu je účinná od 11. 1. 2026 do 9. 7. 2026). Výklad stojí na textu zákona, jeho systematice a souvislostech s dalšími předpisy; kapitoly vedle toho citují jedinou místní judikaturní kartu — NS 27 Cdo 1795/2018 ([judikatura/NS-27-Cdo-1795-2018.md](judikatura/NS-27-Cdo-1795-2018.md)) — a tento úvod žádné další spisové značky nedoplňuje (viz oddíl Místní judikatura).
 
 ---
 
@@ -34,7 +34,7 @@ K 1. lednu 2014 se listinné neimobilizované akcie na majitele **mění ze zák
 
 ### Povinnosti akcionářů a výzva společnosti (§ 3)
 
-Akcionáři měli do **30. června 2014** dvě kumulativní povinnosti: **předložit akcie** k vyznačení nezbytných údajů nebo k výměně a **sdělit údaje** potřebné pro zápis do seznamu akcionářů. Lhůta je zákonná a pevná; výzva, kterou společnost musela uveřejnit nejpozději tři měsíce před jejím uplynutím, ji neposouvá. O tom, zda dojde k výměně listin, nebo jen k vyznačení změn, rozhoduje představenstvo.
+Akcionáři měli do **30. června 2014** dvě kumulativní povinnosti: **předložit akcie** k vyznačení nezbytných údajů nebo k výměně a **sdělit údaje** potřebné pro zápis do seznamu akcionářů. Lhůta je zákonná a pevná; výzva, kterou společnost musela uveřejnit nejpozději tři měsíce před jejím uplynutím, ji neposouvá. Totéž plyne z místní judikaturní karty NS 27 Cdo 1795/2018: sankce za nepředložení akcií nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost akcionáře vyzvala, a na lhůtu, kterou jim k tomu stanovila. O tom, zda dojde k výměně listin, nebo jen k vyznačení změn, rozhoduje představenstvo.
 
 ### Sankce za prodlení (§ 3 odst. 1, § 4)
 
@@ -81,14 +81,22 @@ Pro každou otázku je nutno nejprve určit, do kterého období rozhodná skute
 | od 30. 6. 2013 do 31. 12. 2013 | ZTAS a novelizované znění ObchZ a zákona o cenných papírech; § 93a ZPKT ve znění vloženém ZTAS |
 | 1. 1. 2014 | zákonná změna formy (§ 2 odst. 1); účinnost ZOK a občanského zákoníku, zrušení ObchZ a zákona o cenných papírech |
 | od 1. 1. 2014 do 30. 6. 2014 | lhůta k předložení akcií a sdělení údajů (§ 3 odst. 1) a k úpravě stanov a podání návrhu na zápis (§ 2 odst. 2) |
-| od 1. 7. 2014 | prodlení akcionářů, kteří povinnosti nesplnili, se sankcemi podle § 3 odst. 1 a § 4 |
+| od 1. 7. 2014 | prodlení akcionářů, kteří povinnosti nesplnili, se sankcemi podle § 3 odst. 1 a § 4 (nástup sankce nezávisí na výzvě společnosti — karta NS 27 Cdo 1795/2018) |
+
+## Místní judikatura
+
+Složka [judikatura/](judikatura/README.md) obsahuje jedinou místní kartu: **NS 27 Cdo 1795/2018** ze dne 31. 10. 2018, kat. A ([judikatura/NS-27-Cdo-1795-2018.md](judikatura/NS-27-Cdo-1795-2018.md)). Její právní věta zní: „Sankce spočívající ve ztrátě oprávnění vykonávat práva spojená s akciemi, které akcionáři do 30. 6. 2014 nepředložili k vyznačení nezbytných údajů nebo k výměně za nové akcie na jméno ve smyslu § 3 odst. 1 zákona č. 134/2013 Sb., nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost vyzvala akcionáře, aby jí akcie předložili, respektive na to, jakou lhůtu jim k tomu společnost stanovila“.
+
+- **Kde je citována:** v kapitole 1 u § 2, § 3, § 4 a § 5, v kapitole 2 u § 8; za každou citací následuje odstavec „K místní judikaturní kartě NS 27 Cdo 1795/2018“, který vysvětluje její dosah pro dané ustanovení.
+- **Co z ní plyne:** přímo k § 3 odst. 1 — sankce nastupuje uplynutím zákonné lhůty 30. 6. 2014 a nezávisí na výzvě společnosti podle § 3 odst. 2 ani na lhůtě, kterou společnost akcionářům určila; účinky opožděné nebo chybějící výzvy na nástup sankce proto komentář již nevede jako výkladovou otázku. K § 2, § 4, § 5 a § 8 jen nepřímo (zákonná změna formy, týž počátek prodlení pro nevznik práva na dividendu, předložení akcií držitelem, trvalý režim identifikace akcionáře); tyto úsudky jsou výkladem komentáře, nikoli výslovným obsahem karty.
+- **Hranice:** karta obsahuje jen právní větu bez skutkového kontextu; výslovně hovoří o nepředložení akcií, nikoli o nesdělení údajů pro seznam akcionářů; neřeší dobu trvání sankce, rozsah § 4, odpovědnost držitele podle § 5 odst. 2 ani náhradu újmy z opožděné nebo chybějící výzvy. Místní komentář k ZOK (Komentar-ZOK-90-2012) ji cituje u § 259–263 ZOK a odkazuje na ni v kazuistice k § 274 ZOK; dnešní ustanovení ZOK karta nevykládá.
 
 ## Poznámka k metodě
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** podle konsolidace `SB-2013-00134_2013-06-30`, pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika a H. Praktický závěr s kontrolním checklistem.
 - U novelizačních ustanovení (§ 8, § 10, § 11) jsou citované paragrafy ObchZ, zákona o cenných papírech a ZPKT součástí doslovného znění příslušného paragrafu ZTAS a nekomentují se jako samostatné jednotky; komentář uvádí, co se měnilo, a odkazuje na dnešní úpravu ověřenou v místních konsolidacích.
 - Místní soubor zákona o cenných papírech obsahuje jen jeho původní znění z roku 1992; znění bezprostředně před novelou je proto známo jen z textu novelizačních bodů § 10 a komentář je nedoplňuje.
-- Sporná místa jsou označena jako **výkladové otázky**. Komentář necituje judikaturu; doprovodné soubory [ZASADY.md](ZASADY.md) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) jsou sestaveny výhradně z doslovných citací kapitol.
+- Sporná místa jsou označena jako **výkladové otázky**. Judikaturu komentář cituje jen v rozsahu jediné místní karty NS 27 Cdo 1795/2018 (oddíl Místní judikatura); doprovodné soubory [ZASADY.md](ZASADY.md) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) jsou sestaveny výhradně z doslovných citací kapitol.
 
 ---
 

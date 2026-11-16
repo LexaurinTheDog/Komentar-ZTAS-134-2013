@@ -73,6 +73,8 @@ Vymezení je úzké a kumulativní: akcie musí být (a) **listinná**, (b) **na
 - *NS* [27 Cdo 1795/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B89FCE871DB0756CC12583840037CAF1?openDocument) — 31. 10. 2018, kat. A
   > „Sankce spočívající ve ztrátě oprávnění vykonávat práva spojená s akciemi, které akcionáři do 30. 6. 2014 nepředložili k vyznačení nezbytných údajů nebo k výměně za nové akcie na jméno ve smyslu § 3 odst. 1 zákona č. 134/2013 Sb., nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost vyzvala akcionáře, aby jí akcie předložili, respektive na to, jakou lhůtu jim k tomu společnost stanovila"
 
+**K místní judikaturní kartě NS 27 Cdo 1795/2018:** Ke § 2 karta míří jen nepřímo. Vykládá sankci podle § 3 odst. 1, která postihuje „akcie uvedené v § 2 odst. 1“, tedy akcie, jejichž forma se k 1. 1. 2014 změnila ze zákona. Pro § 2 z ní plyne, že i důsledek zákonné změny formy pro akcionáře, který akcie nepředložil, nastupuje bez součinnosti společnosti: tak jako účinnost změny nezávisí na zápisu do obchodního rejstříku ani na výměně listin (odst. 1), nezávisí nástup sankce na tom, kdy (popřípadě zda vůbec) společnost akcionáře vyzvala, ani na lhůtě, kterou jim určila. Právní věta popisuje sankci jako ztrátu oprávnění vykonávat práva spojená s akciemi, nikoli jako zánik akcie; je tak v souladu s výkladem níže, že nepředložená akcie trvá jako akcie na jméno, s níž nelze po dobu prodlení vykonávat práva. Hranice závěru: karta obsahuje jen právní větu bez skutkového kontextu a k samotnému § 2 se nevyjadřuje — neřeší účinnost změny bez zápisu, ochranu důvěry v nezměněný zápis „akcie na majitele“, nesplnění povinností představenstva podle odst. 2 ani formu převodu přeměněné akcie; tyto otázky stojí nadále jen na textu zákona a výkladu komentáře. Místní komentář k ZOK (Komentar-ZOK-90-2012) kartu cituje u § 259–263 ZOK (forma akcie) a odkazuje na ni v kazuistice k § 274 ZOK; dnešní ustanovení ZOK karta nevykládá.
+
 #### Změna formy přímo ze zákona (odst. 1 věta první)
 
 K 1. lednu 2014 se listinné neimobilizované akcie na majitele **mění ze zákona** na listinné akcie na jméno. Nevyžaduje se rozhodnutí valné hromady ani jiný úkon společnosti či akcionáře; výměna listin nebo vyznačení údajů podle § 3 je až následným krokem, na němž účinnost změny nezávisí. Mění se jen **forma** (na majitele → na jméno), nikoli **podoba** (listinná akcie zůstává listinnou). Podle dnešní terminologie má akcie na jméno formu cenného papíru na řad a akcie na majitele formu cenného papíru na doručitele (§ 263 ZOK); od 1. 1. 2014 proto přeměněnou akcii nelze převést pouhým předáním, ale rubopisem a předáním (§ 269 odst. 1 ZOK, § 1103 odst. 2 občanského zákoníku) a s účinky vůči společnosti až po oznámení změny a předložení akcie (§ 269 odst. 2 ZOK). Na první převod navazuje zvláštní pravidlo § 7 odst. 5.
@@ -141,6 +143,8 @@ Listinné neimobilizované akcie na majitele se k 1. 1. 2014 změnily na akcie n
 - *NS* [27 Cdo 1795/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B89FCE871DB0756CC12583840037CAF1?openDocument) — 31. 10. 2018, kat. A
   > „Sankce spočívající ve ztrátě oprávnění vykonávat práva spojená s akciemi, které akcionáři do 30. 6. 2014 nepředložili k vyznačení nezbytných údajů nebo k výměně za nové akcie na jméno ve smyslu § 3 odst. 1 zákona č. 134/2013 Sb., nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost vyzvala akcionáře, aby jí akcie předložili, respektive na to, jakou lhůtu jim k tomu společnost stanovila"
 
+**K místní judikaturní kartě NS 27 Cdo 1795/2018:** Ke § 3 karta míří přímo — její právní věta vykládá sankci podle odst. 1 věty druhé. Plyne z ní, že ztráta oprávnění vykonávat práva spojená s akciemi, které akcionář do 30. 6. 2014 nepředložil k vyznačení nezbytných údajů nebo k výměně, nastupuje uplynutím zákonné lhůty a nezávisí na tom, kdy (popřípadě zda vůbec) společnost uveřejnila výzvu podle odst. 2, ani na lhůtě, kterou společnost akcionářům k předložení sama určila. Výzva tedy není podmínkou prodlení a delší lhůta stanovená společností zákonnou lhůtu neprodlužuje. Otázku účinků opožděné, chybějící nebo odlišnou lhůtu stanovící výzvy na nástup sankce proto komentář nevede jako výkladovou otázku, ale jako otázku vyřešenou kartou (viz oddíl o výzvě společnosti a kazuistiku níže). Hranice závěru: karta obsahuje jen právní větu bez skutkového kontextu, takže z ní nelze zjistit, o jakou společnost, jaká práva ani jakou výzvu šlo. Výslovně hovoří jen o nepředložení akcií; k samostatné povinnosti sdělit údaje pro seznam akcionářů se nevyjadřuje a závěr, že prodlení zakládá i nesdělení údajů, stojí na textu odst. 1. Karta neřeší ani dobu trvání sankce (ta plyne ze slov „po dobu prodlení“), ani následky porušení povinnosti společnosti podle odst. 2 — odpovědnost členů představenstva a případnou náhradu újmy akcionáři dovozuje jen komentář. Místní komentář k ZOK (Komentar-ZOK-90-2012) kartu cituje u § 259–263 ZOK a odkazuje na ni v kazuistice k § 274 ZOK, kde ji shrnuje tak, že sankce nastupuje bez ohledu na výzvu společnosti; dnešní ustanovení ZOK karta nevykládá.
+
 #### Dvě povinnosti akcionáře a pevná lhůta (odst. 1 věta první)
 
 Akcionář má dvě kumulativní povinnosti, obě splnitelné **nejpozději do 30. června 2014**: (a) **předložit akcie** společnosti k vyznačení nezbytných údajů nebo k výměně za nové akcie na jméno a (b) **sdělit údaje potřebné pro zápis do seznamu akcionářů**. Rozsah údajů určoval v rozhodné době zákon upravující seznam akcionářů — ObchZ ve znění § 8 bodu 3 ZTAS a od 1. 1. 2014 § 264 odst. 2 ZOK (mimo jiné jméno a bydliště nebo sídlo akcionáře, číslo bankovního účtu a číselné označení listinné akcie). Nesplnění kterékoli z obou povinností zakládá prodlení. Lhůta je **zákonná a pevná**; neprodlužuje ji ani nezkracuje rozhodnutí společnosti. Předkládací povinnost může za akcionáře plnit zástavní věřitel nebo jiná osoba, která má akcie u sebe (§ 5).
@@ -151,7 +155,7 @@ Akcionář v prodlení „není po dobu prodlení oprávněn vykonávat práva s
 
 #### Výzva společnosti (odst. 2)
 
-Společnost musí nejpozději **3 měsíce před uplynutím lhůty** podle odst. 1, tj. nejpozději ke konci března 2014, uveřejnit způsobem určeným pro svolání valné hromady **výzvu k předložení akcií** a **oznámení o následcích prodlení** podle odst. 1 a § 4. Výzvu bylo nutno uveřejnit i způsobem stanoveným pro společnosti s akciemi na majitele (§ 7 odst. 4 věta druhá), neboť dosavadní majitelé zpravidla nebyli v seznamu akcionářů. Uveřejnit výzvu bylo možné již od účinnosti ZTAS (30. 6. 2013). **Výkladová otázka:** zda prodlení akcionáře a sankce nastupují i tehdy, nesplnila-li společnost povinnost podle odst. 2 nebo stanovila-li odlišnou lhůtu. Text váže prodlení výhradně na zákonnou lhůtu v odst. 1, nikoli na výzvu; výzva je samostatnou povinností společnosti, jejíž porušení zakládá odpovědnost členů představenstva, nikoli posun zákonné lhůty. Pro akcionáře je proto bezpečné vycházet z pevného data 30. 6. 2014.
+Společnost musí nejpozději **3 měsíce před uplynutím lhůty** podle odst. 1, tj. nejpozději ke konci března 2014, uveřejnit způsobem určeným pro svolání valné hromady **výzvu k předložení akcií** a **oznámení o následcích prodlení** podle odst. 1 a § 4. Výzvu bylo nutno uveřejnit i způsobem stanoveným pro společnosti s akciemi na majitele (§ 7 odst. 4 věta druhá), neboť dosavadní majitelé zpravidla nebyli v seznamu akcionářů. Uveřejnit výzvu bylo možné již od účinnosti ZTAS (30. 6. 2013). **Výzva a nástup sankce:** zda prodlení akcionáře a sankce nastupují i tehdy, nesplnila-li společnost povinnost podle odst. 2 nebo stanovila-li odlišnou lhůtu, není otevřenou otázkou — řeší ji místní judikaturní karta NS 27 Cdo 1795/2018 (citována výše): sankce nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost akcionáře vyzvala, a bez ohledu na lhůtu, kterou jim k předložení stanovila. Text váže prodlení výhradně na zákonnou lhůtu v odst. 1, nikoli na výzvu; výzva je samostatnou povinností společnosti, jejíž porušení zakládá odpovědnost členů představenstva, nikoli posun zákonné lhůty. Rozhodné je proto pevné datum 30. 6. 2014. Závěr o odpovědnosti členů představenstva a o případné náhradě újmy akcionáři je výkladem komentáře; karta jej neobsahuje.
 
 #### Výměna, nebo vyznačení změn (odst. 3)
 
@@ -163,29 +167,30 @@ Zda dojde k výměně za nové akcie na jméno, nebo jen k vyznačení změn na 
 
 **2. Právní otázka.** Byl C v době konání valné hromady v prodlení a mohl vykonávat práva spojená s akciemi?
 
-**3. Použitelné právo.** § 3 odst. 1 a 2 ZTAS; § 4 a § 7 odst. 4 ZTAS; § 264 a § 265 ZOK.
+**3. Použitelné právo.** § 3 odst. 1 a 2 ZTAS; § 4 a § 7 odst. 4 ZTAS; § 264 a § 265 ZOK; místní judikaturní karta NS 27 Cdo 1795/2018.
 
 **4. Subsumpce.** Zákonná lhůta k předložení akcií a sdělení údajů uplynula 30. 6. 2014; od 1. 7. 2014 byl C v prodlení. Opožděná výzva a delší lhůta určená společností jsou porušením odst. 2 ze strany společnosti, zákonnou lhůtu však neposouvají. K 25. 7. 2014 tedy C nebyl oprávněn vykonávat práva spojená s akciemi.
 
-**5. Řešení.** Nepřipuštění C k hlasování bylo v souladu s § 3 odst. 1 věta druhá; prodlení skončilo až 20. 8. 2014. Riziko pro společnost spočívá v tom, že C může uplatnit náhradu újmy vzniklé opožděnou výzvou, a v tom, že otázka účinků vadné výzvy je výkladová; společnost se proto opře o to, že lhůta plyne přímo ze zákona vyhlášeného ve Sbírce zákonů.
+**5. Řešení.** Nepřipuštění C k hlasování bylo v souladu s § 3 odst. 1 věta druhá; prodlení skončilo až 20. 8. 2014. Shodně vyznívá místní judikaturní karta NS 27 Cdo 1795/2018, podle níž sankce nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost akcionáře vyzvala, a na lhůtu, kterou jim k tomu stanovila; opožděná výzva ani lhůta do 31. 8. 2014 proto C nechrání. Riziko pro společnost spočívá jen v tom, že C může uplatnit náhradu újmy vzniklé opožděnou výzvou; tuto otázku karta neřeší.
 
 **6. Varianty.** (a) Kdyby C akcie předložil, ale nesdělil číslo bankovního účtu, zůstal by v prodlení, neboť obě povinnosti jsou kumulativní. (b) Kdyby valná hromada proběhla v dubnu 2014, C by v prodlení nebyl; práva by však musel prokázat předložením listiny a společnost by musela pozvánku uveřejnit i způsobem pro společnosti s akciemi na majitele (§ 7 odst. 4).
 
 #### G. Protiargumenty a rizika
 
-- *„Lhůtu určila společnost ve výzvě.“* Neutralizace: lhůtu stanoví přímo § 3 odst. 1; výzva podle odst. 2 jen informuje a nemůže zákonnou lhůtu změnit.
+- *„Lhůtu určila společnost ve výzvě.“* Neutralizace: lhůtu stanoví přímo § 3 odst. 1; výzva podle odst. 2 jen informuje a nemůže zákonnou lhůtu změnit. Podle místní karty NS 27 Cdo 1795/2018 sankce nastoupí bez ohledu na lhůtu, kterou akcionářům stanovila společnost.
+- *„Společnost mě vůbec nevyzvala, sankce se mě netýká.“* Neutralizace: podle místní karty NS 27 Cdo 1795/2018 sankce nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost akcionáře vyzvala; opomenutí výzvy může zakládat jen odpovědnost na straně společnosti, nikoli odklad sankce.
 - *„Sankce mě zbavuje akcií.“* Neutralizace: sankce jen pozastavuje výkon práv po dobu prodlení; vlastnictví ani akcie nezanikají a prodlení lze kdykoli ukončit.
 - *„Představenstvo mi nemůže vnutit výměnu listin.“* Neutralizace: o výměně či vyznačení rozhoduje představenstvo (odst. 3).
-- *Slabé místo:* dopad vadné nebo opožděné výzvy na sankce je výkladovou otázkou; text však sankce váže na zákonnou lhůtu.
+- *Slabé místo:* místní karta NS 27 Cdo 1795/2018 obsahuje jen právní větu bez skutkového kontextu a výslovně se týká nepředložení akcií; nárok akcionáře na náhradu újmy z vadné, opožděné nebo chybějící výzvy a samotné nesdělení údajů pro seznam akcionářů neřeší.
 
 #### H. Praktický závěr
 
-Akcionáři měli do 30. 6. 2014 předložit akcie a sdělit údaje pro seznam akcionářů; do splnění obou povinností nemohou vykonávat práva spojená s dotčenými akciemi. Společnost měla nejpozději tři měsíce předem uveřejnit výzvu s poučením o následcích; o výměně nebo vyznačení rozhoduje představenstvo.
+Akcionáři měli do 30. 6. 2014 předložit akcie a sdělit údaje pro seznam akcionářů; do splnění obou povinností nemohou vykonávat práva spojená s dotčenými akciemi. Sankce za nepředložení akcií nastupuje bez ohledu na to, kdy (popřípadě zda vůbec) společnost akcionáře vyzvala a jakou lhůtu jim stanovila (místní karta NS 27 Cdo 1795/2018). Společnost měla nejpozději tři měsíce předem uveřejnit výzvu s poučením o následcích; jde o její samostatnou povinnost, na níž nástup sankce nezávisí. O výměně nebo vyznačení rozhoduje představenstvo.
 
 **Checklist (advokát / soud / správní orgán / adresát normy):**
 - [ ] Kdy přesně akcionář předložil akcie a kdy sdělil údaje pro seznam akcionářů?
 - [ ] Spadá rozhodný úkon (valná hromada, výplata) do doby prodlení po 30. 6. 2014?
-- [ ] Uveřejnila společnost výzvu včas a i způsobem pro akcie na majitele (§ 7 odst. 4)?
+- [ ] Uveřejnila společnost výzvu včas a i způsobem pro akcie na majitele (§ 7 odst. 4)? (Pro nástup sankce nerozhoduje — karta NS 27 Cdo 1795/2018; význam má pro případnou náhradu újmy a odpovědnost členů představenstva.)
 - [ ] Rozhodlo představenstvo o výměně nebo vyznačení a jsou údaje na listinách úplné?
 
 **Typicky rozhodné důkazy / podklady:** uveřejněná výzva a její datum, potvrzení o převzetí akcií společností, seznam akcionářů s daty zápisu, rozhodnutí představenstva podle odst. 3, pozvánky a listiny přítomných na valných hromadách.
@@ -202,6 +207,8 @@ Akcionáři měli do 30. 6. 2014 předložit akcie a sdělit údaje pro seznam a
 
 - *NS* [27 Cdo 1795/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B89FCE871DB0756CC12583840037CAF1?openDocument) — 31. 10. 2018, kat. A
   > „Sankce spočívající ve ztrátě oprávnění vykonávat práva spojená s akciemi, které akcionáři do 30. 6. 2014 nepředložili k vyznačení nezbytných údajů nebo k výměně za nové akcie na jméno ve smyslu § 3 odst. 1 zákona č. 134/2013 Sb., nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost vyzvala akcionáře, aby jí akcie předložili, respektive na to, jakou lhůtu jim k tomu společnost stanovila"
+
+**K místní judikaturní kartě NS 27 Cdo 1795/2018:** Ke § 4 karta míří jen nepřímo. Výslovně se týká sankce ztráty oprávnění vykonávat práva podle § 3 odst. 1, nikoli nevzniku práva na dividendu. § 4 však váže svůj následek na totéž prodlení s povinností podle § 3 odst. 1. Nastupuje-li podle karty toto prodlení se sankcí po 30. 6. 2014 bez ohledu na to, kdy (popřípadě zda vůbec) společnost akcionáře vyzvala a jakou lhůtu jim určila, platí stejný počátek prodlení i pro § 4; jde o úsudek komentáře, nikoli o výslovný závěr karty. Akcionáři, který do 30. 6. 2014 nesplnil povinnosti podle § 3 odst. 1, tak právo na dividendu z rozhodnutí o rozdělení zisku přijatého v době prodlení nevznikne ani tehdy, byla-li výzva opožděná nebo stanovila-li společnost delší lhůtu; vadná výzva může mít význam jen pro případnou náhradu újmy, nikoli pro vznik práva na dividendu. Hranice závěru: karta obsahuje jen právní větu bez skutkového kontextu, nelze z ní zjistit, zda se spor týkal dividendy, a neřeší rozsah § 4 u jiných vlastních zdrojů a záloh, osud nevyplacené částky ani vrácení omylem vyplacené dividendy — tyto výkladové otázky zůstávají otevřené. Místní komentář k ZOK (Komentar-ZOK-90-2012) kartu cituje u § 259–263 ZOK a odkazuje na ni v kazuistice k § 274 ZOK, nikoli u úpravy podílu na zisku; dnešní ustanovení ZOK karta nevykládá.
 
 #### Trvalá ztráta práva na dividendu
 
@@ -233,7 +240,7 @@ Sankce jako zásah do majetkového práva akcionáře se vykládá restriktivně
 
 - *„Po skončení prodlení mohu dividendu uplatnit dodatečně.“* Neutralizace: § 4 nestanoví pozastavení, ale nevznik práva; rozhodný je stav v den rozhodnutí.
 - *„Nevyplacená dividenda patří ostatním akcionářům.“* Neutralizace: zákon přerozdělení nestanoví; podíly se určují poměrem jmenovitých hodnot.
-- *Slabé místo:* rozsah sankce u jiných vlastních zdrojů a záloh je výkladovou otázkou.
+- *Slabé místo:* rozsah sankce u jiných vlastních zdrojů a záloh je výkladovou otázkou; místní karta NS 27 Cdo 1795/2018 se k § 4 výslovně nevyjadřuje a podporuje jen závěr, že počátek prodlení nezávisí na výzvě společnosti.
 
 #### H. Praktický závěr
 
@@ -243,7 +250,7 @@ Kdo byl v den rozhodnutí valné hromady o rozdělení zisku v prodlení podle �
 - [ ] Kdy valná hromada rozhodla o rozdělení zisku?
 - [ ] Byl akcionář k tomuto dni v prodlení s předložením akcií nebo se sdělením údajů?
 - [ ] Jde o rozdělení zisku, nebo o jiné plnění, na něž § 4 nedopadá?
-- [ ] Bylo v pozvánce či výzvě poučení o následcích prodlení (§ 3 odst. 2)?
+- [ ] Bylo v pozvánce či výzvě poučení o následcích prodlení (§ 3 odst. 2)? (Pro počátek prodlení nerozhoduje — srov. kartu NS 27 Cdo 1795/2018; může mít význam pro případnou náhradu újmy.)
 
 **Typicky rozhodné důkazy / podklady:** zápis z valné hromady s usnesením o rozdělení zisku, doklad o datu předložení akcií a sdělení údajů, seznam akcionářů.
 
@@ -263,6 +270,8 @@ Kdo byl v den rozhodnutí valné hromady o rozdělení zisku v prodlení podle �
 
 - *NS* [27 Cdo 1795/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B89FCE871DB0756CC12583840037CAF1?openDocument) — 31. 10. 2018, kat. A
   > „Sankce spočívající ve ztrátě oprávnění vykonávat práva spojená s akciemi, které akcionáři do 30. 6. 2014 nepředložili k vyznačení nezbytných údajů nebo k výměně za nové akcie na jméno ve smyslu § 3 odst. 1 zákona č. 134/2013 Sb., nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost vyzvala akcionáře, aby jí akcie předložili, respektive na to, jakou lhůtu jim k tomu společnost stanovila"
+
+**K místní judikaturní kartě NS 27 Cdo 1795/2018:** Ke § 5 karta míří jen nepřímo. Předkládací povinnost, kterou § 5 odst. 1 přenáší na zástavního věřitele nebo jinou osobu oprávněnou mít akcie u sebe, je táž povinnost podle § 3 odst. 1, k jejímuž porušení se karta vyjadřuje. Plyne z ní, že sankce dopadá na akcie nepředložené do 30. 6. 2014 bez ohledu na to, kdy (popřípadě zda vůbec) společnost výzvu uveřejnila a jakou lhůtu stanovila; pozdní výzva, a s ní pozdní upozornění držitele podle odst. 2, tedy nástup sankce neodsouvá. To je v souladu se závěrem komentáře níže, že sankce postihují akcie, a tím akcionáře, který se hojí náhradou škody vůči držiteli. Hranice závěru: karta obsahuje jen právní větu bez skutkového kontextu a hovoří o akciích, které nepředložili akcionáři; zda šlo o případ držitele podle § 5, z ní zjistit nelze, takže výkladovou otázku, kdo je při nečinnosti držitele v prodlení, neřeší. Neřeší ani odpovědnost držitele podle odst. 2, která je vázána na upozornění na výzvu podle § 3 odst. 2; jak se tato odpovědnost uplatní, nebyla-li výzva uveřejněna vůbec, zůstává otevřené. Místní komentář k ZOK (Komentar-ZOK-90-2012) kartu cituje u § 259–263 ZOK a odkazuje na ni v kazuistice k § 274 ZOK; dnešní ustanovení ZOK karta nevykládá.
 
 #### Přenesení předkládací povinnosti (odst. 1)
 

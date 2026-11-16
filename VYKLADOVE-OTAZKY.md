@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Repozitář zatím neobsahuje místní důvodovou zprávu ani místní karty rozhodnutí (složka `judikatura/` se doplní strojově později). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Repozitář neobsahuje místní důvodovou zprávu; složka `judikatura/` obsahuje jedinou místní kartu rozhodnutí — [NS 27 Cdo 1795/2018](judikatura/NS-27-Cdo-1795-2018.md) (viz otázka 9). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -81,7 +81,7 @@ Místní kapitoly výslovně zachycují například tyto časové nebo pořadov�
 
 Shrnutí sledu: účinnost ZTAS 30. 6. 2013 (od té doby lze uveřejnit výzvu) → první valná hromada po účinnosti (lhůta § 9) → 1. 1. 2014 zákonná změna formy → nejpozději konec března 2014 výzva → do 30. 6. 2014 předložení akcií, sdělení údajů, úprava stanov a návrh na zápis → od 1. 7. 2014 prodlení. O výměně nebo vyznačení rozhoduje představenstvo (§ 3 odst. 3); den jeho rozhodnutí je datem emise nových akcií, uvádí-li se (§ 6).
 
-**Jak ji řešit.** Sestavte časovou osu od iniciační skutečnosti přes příslušný orgán, formu úkonu, uveřejnění a běh lhůty až po následek. Rozlišujte pevnou kalendářní lhůtu (30. 6. 2014), lhůtu vázanou na událost (§ 9) a lhůtu odvozenou (3 měsíce před koncem lhůty, § 3 odst. 2). U každé lhůty určete počátek, konec a následek zmeškání; povinnost společnosti uveřejnit výzvu nezaměňujte s lhůtou akcionáře.
+**Jak ji řešit.** Sestavte časovou osu od iniciační skutečnosti přes příslušný orgán, formu úkonu, uveřejnění a běh lhůty až po následek. Rozlišujte pevnou kalendářní lhůtu (30. 6. 2014), lhůtu vázanou na událost (§ 9) a lhůtu odvozenou (3 měsíce před koncem lhůty, § 3 odst. 2). U každé lhůty určete počátek, konec a následek zmeškání; povinnost společnosti uveřejnit výzvu nezaměňujte s lhůtou akcionáře — sankce podle § 3 odst. 1 nastupuje bez ohledu na to, kdy (popřípadě zda vůbec) společnost akcionáře vyzvala a jakou lhůtu jim stanovila (místní karta NS 27 Cdo 1795/2018).
 
 **Místní opora.** [§ 3 — Postup při změně formy akcií](01-zmena-formy-akcii.md); [§ 7 — Přechodná ustanovení](01-zmena-formy-akcii.md); [§ 9 — Přechodné ustanovení](02-novely-obchz-zcp-zpkt.md); [Procesní sled, příslušnost, forma a lhůty](HLOUBKOVY-VYKLAD.md); [mapa modalit a lhůt](PRAVNI-MODALITY.md)
 
@@ -133,19 +133,20 @@ Místní dokument zásad výslovně pojmenovává:
 
 Typický střet: transparentnost a pevná lhůta proti ochraně majetkových práv akcionáře. Místní komentář jej řeší tak, že sankce „jen pozastavuje výkon práv po dobu prodlení; vlastnictví ani akcie nezanikají a prodlení lze kdykoli ukončit.“ Druhý střet — účinnost zákonné změny proti důvěře třetích osob v nezměněný rejstříkový zápis — komentář ponechává jako výkladovou otázku.
 
-**Jak ji řešit.** U každé zásady určete textovou oporu, funkci, typické použití a hranici. Při střetu nepoužívejte zásadu jako slogan: popište dotčené hodnoty, intenzitu zásahu, možné šetrnější řešení a důvod priority v konkrétním skutkovém a procesním kontextu. Zásady v místním souboru jsou dovozeny z textu a kapitol, nikoli z judikatury; tak je i citujte.
+**Jak ji řešit.** U každé zásady určete textovou oporu, funkci, typické použití a hranici. Při střetu nepoužívejte zásadu jako slogan: popište dotčené hodnoty, intenzitu zásahu, možné šetrnější řešení a důvod priority v konkrétním skutkovém a procesním kontextu. Zásady v místním souboru jsou dovozeny z textu a kapitol; jen zásadu 5 (pevná zákonná lhůta a informační povinnost společnosti) podpírá navíc místní karta NS 27 Cdo 1795/2018. Tak je i citujte.
 
 **Místní opora.** [místní zásady](ZASADY.md); [úvodní místní výklad](00-uvod.md); [Účel, chráněné hodnoty a právní zásady](HLOUBKOVY-VYKLAD.md)
 
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Místní složka `judikatura/` zatím neexistuje a doplní se strojově později; místní korpus proto obsahuje **0** karet rozhodnutí a v systematickém souboru zásad je odkazováno na **0** místních karet s použitelnou citací. Úvod to uvádí výslovně: „Kapitoly necitují žádná konkrétní soudní rozhodnutí a tento úvod žádné spisové značky nedoplňuje; výklad stojí na textu zákona, jeho systematice a souvislostech s dalšími předpisy.“
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Okruhy, u nichž by místní karta nejvíce změnila výklad (ochrana důvěry v zápis, vadná výzva, rozsah § 4, osud akcií v rozpracované imobilizaci, počátek lhůty § 9), eviduje vrstva 9 hloubkového výkladu jako otevřené.
+Místní složka `judikatura/` obsahuje **1** kartu rozhodnutí — [NS 27 Cdo 1795/2018](judikatura/NS-27-Cdo-1795-2018.md) ze dne 31. 10. 2018, kat. A. Kapitoly ji citují u § 2, § 3, § 4 a § 5 (kapitola 1) a u § 8 (kapitola 2); systematický soubor zásad na ni odkazuje u zásady 5. Právní věta karty zní: „Sankce spočívající ve ztrátě oprávnění vykonávat práva spojená s akciemi, které akcionáři do 30. 6. 2014 nepředložili k vyznačení nezbytných údajů nebo k výměně za nové akcie na jméno ve smyslu § 3 odst. 1 zákona č. 134/2013 Sb., nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost vyzvala akcionáře, aby jí akcie předložili, respektive na to, jakou lhůtu jim k tomu společnost stanovila“.
+Přímo z karty plyne odpověď na otázku, kterou komentář dříve vedl jako výkladovou: ztráta oprávnění vykonávat práva spojená s akciemi nepředloženými do 30. 6. 2014 nastupuje bez ohledu na to, kdy a zda společnost uveřejnila výzvu podle § 3 odst. 2, a bez ohledu na lhůtu, kterou společnost akcionářům určila. Ke § 2, § 4, § 5 a § 8 míří karta jen nepřímo; co z ní kapitoly pro tato ustanovení vyvozují (např. týž počátek prodlení pro nevznik práva na dividendu podle § 4), je úsudkem komentáře, nikoli výslovným obsahem karty.
+Hranice: karta obsahuje jen právní větu bez skutkového a procesního kontextu; hovoří o nepředložení akcií, nikoli o nesdělení údajů pro seznam akcionářů; neřeší dobu trvání sankce, rozsah § 4, odpovědnost držitele podle § 5 odst. 2 ani náhradu újmy z vadné výzvy. Místní komentář k ZOK (Komentar-ZOK-90-2012) ji cituje u § 259–263 ZOK a odkazuje na ni v kazuistice k § 274 ZOK; dnešní ustanovení ZOK karta nevykládá. Ostatní okruhy (ochrana důvěry v zápis, náhrada újmy z vadné výzvy, rozsah § 4, osud akcií v rozpracované imobilizaci, počátek lhůty § 9) eviduje vrstva 9 hloubkového výkladu jako otevřené.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (ZTAS, dobový ObchZ, nebo ZOK) a stejný právní problém; rozhodnutí k obecné změně formy akcií nelze bez dalšího přenést na zákonnou změnu podle § 2. Do té doby chybějící místní judikaturu označujte jako mezeru.
+**Jak ji řešit.** U karty NS 27 Cdo 1795/2018 citujte jen právní větu a uveďte, že výrok, nosné důvody a skutkový kontext místně k dispozici nejsou. Přímý dosah (§ 3 odst. 1) oddělte od nepřímých úsudků a ty označte jako syntézu. Při doplnění dalších karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady a ověřte, zda soud vykládal stejné znění (ZTAS, dobový ObchZ, nebo ZOK) a stejný právní problém; rozhodnutí k obecné změně formy akcií nelze bez dalšího přenést na zákonnou změnu podle § 2. U okruhů bez karty označujte chybějící místní judikaturu jako mezeru.
 
-**Místní opora.** [místní zásady a metoda](ZASADY.md); [úvod — metodická poznámka](00-uvod.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
+**Místní opora.** [karta NS 27 Cdo 1795/2018](judikatura/NS-27-Cdo-1795-2018.md); [§ 3 — Postup při změně formy akcií](01-zmena-formy-akcii.md); [místní zásady a metoda](ZASADY.md); [úvod — místní judikatura](00-uvod.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -163,9 +164,9 @@ Samostatná sekce vazeb je v úvodu ([Vazby na jiné předpisy](00-uvod.md)): ZO
 ## 11. Kde jsou konkurenční výklady, protiargumenty a hraniční případy?
 
 **Odpověď pro tento komentář.**
-Místní kapitoly obsahují 12 výslovně označených výkladových otázek a 12 oddílů protiargumentů; výkladové otázky zachycují například tato místa:
+Místní kapitoly obsahují 11 výslovně označených výkladových otázek a 12 oddílů protiargumentů; výkladové otázky zachycují například tato místa:
 - [§ 2 — ochrana důvěry v nezměněný zápis; adresát u monistické struktury](01-zmena-formy-akcii.md)
-- [§ 3 — převod akcie v prodlení; účinky vadné nebo opožděné výzvy](01-zmena-formy-akcii.md)
+- [§ 3 — převod akcie v prodlení](01-zmena-formy-akcii.md) (účinky vadné nebo opožděné výzvy na nástup sankce již řeší místní karta NS 27 Cdo 1795/2018)
 - [§ 4 — jiné vlastní zdroje a zálohy; osud nevyplacené částky](01-zmena-formy-akcii.md)
 - [§ 5 — kdo je v prodlení při nečinném držiteli](01-zmena-formy-akcii.md)
 - [§ 6 — opožděná výměna za účinnosti nařízení (EU) 2017/1129](01-zmena-formy-akcii.md)
@@ -173,9 +174,9 @@ Místní kapitoly obsahují 12 výslovně označených výkladových otázek a 1
 - [§ 9 — následky nesdělení čísla účtu](02-novely-obchz-zcp-zpkt.md)
 - [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
-Nejcitlivější je otázka vadné výzvy. Komentář uvádí: „Text váže prodlení výhradně na zákonnou lhůtu v odst. 1, nikoli na výzvu“, současně však připouští, že „otázka účinků vadné výzvy je výkladová“.
+Otázka vadné výzvy, dříve nejcitlivější, již otevřená není. Komentář uvádí: „Text váže prodlení výhradně na zákonnou lhůtu v odst. 1, nikoli na výzvu“, a místní karta NS 27 Cdo 1795/2018 to potvrzuje: sankce nastoupí „bez ohledu na to, kdy (popřípadě zda vůbec) společnost vyzvala akcionáře, aby jí akcie předložili“. Otevřené zůstávají jen následky vadné výzvy pro náhradu újmy, které karta neřeší. Nejcitlivější otevřenou otázkou je tak ochrana důvěry v nezměněný zápis „akcie na majitele“ (§ 2).
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument, praktický následek a důvod, proč jeden převáží; judikatorní argument zatím chybí. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument, praktický následek a důvod, proč jeden převáží; judikatorní argument je místně k dispozici jen u účinků výzvy na nástup sankce (karta NS 27 Cdo 1795/2018), u ostatních otázek chybí. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [kapitola 1](01-zmena-formy-akcii.md); [kapitola 2](02-novely-obchz-zcp-zpkt.md); [místní zásady](ZASADY.md); [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
@@ -193,16 +194,16 @@ Příklad místní subsumpce: „V den rozhodnutí o rozdělení zisku byl D v p
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **3** kapitoly a **0** karet rozhodnutí, doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **3** kapitoly a **1** karta rozhodnutí (NS 27 Cdo 1795/2018), doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura zatím chybí (složka `judikatura/` se doplní strojově);
+- místní judikatura je omezena na jedinou kartu NS 27 Cdo 1795/2018 (právní věta bez skutkového kontextu, přímo jen k § 3 odst. 1); k ostatním okruhům místní karta chybí;
 - místní důvodová zpráva není součástí repozitáře;
 - znění zákona o cenných papírech před novelou a obsah zrušeného § 5 odst. 3 nelze místně ověřit;
 - místní konsolidace ZPKT je účinná jen do 9. 7. 2026;
 - den vyhlášení ZTAS místní zdroj přímo neuvádí;
 - kapitola 2 nemá bloky typicky rozhodných důkazů a ústavní rovina sankcí není zpracována.
 
-Aktualizaci musí spustit zejména doplnění místních karet rozhodnutí, nové místní znění ZPKT, ZOK nebo občanského zákoníku, zjištění pozdější novely ZTAS, rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
+Aktualizaci musí spustit zejména doplnění dalších místních karet rozhodnutí, nové místní znění ZPKT, ZOK nebo občanského zákoníku, zjištění pozdější novely ZTAS, rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
 
 **Jak ji řešit.** Na konci každého výkladu veďte krátký stav poznání: ověřené pravidlo, použitý místní zdroj, období, k němuž závěr platí, otevřená otázka a událost vyžadující revizi. Tvrzení bez dohledatelného místního podkladu buď odstraňte, nebo je označte jako hypotézu; absenci rozhodnutí nikdy neformulujte jako ustálený právní závěr.
 
