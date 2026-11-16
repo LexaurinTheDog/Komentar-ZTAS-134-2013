@@ -40,6 +40,11 @@ Komentář proto u každého ustanovení stručně uvádí, co měnilo, a odkazu
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1795/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B89FCE871DB0756CC12583840037CAF1?openDocument) — 31. 10. 2018, kat. A
+  > „Sankce spočívající ve ztrátě oprávnění vykonávat práva spojená s akciemi, které akcionáři do 30. 6. 2014 nepředložili k vyznačení nezbytných údajů nebo k výměně za nové akcie na jméno ve smyslu § 3 odst. 1 zákona č. 134/2013 Sb., nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost vyzvala akcionáře, aby jí akcie předložili, respektive na to, jakou lhůtu jim k tomu společnost stanovila"
+
 #### Povaha a obsah novelizačního ustanovení
 
 § 8 je **novelizační ustanovení**, které s účinností ZTAS (podle místní konsolidace 30. 6. 2013) provedlo sedm změn obchodního zákoníku. Je svou aplikací **vyčerpané** a obchodní zákoník byl k 1. 1. 2014 zrušen (§ 3080 bod 72 občanského zákoníku); vložená pravidla tak platila jen do 31. 12. 2013. Jejich věcný obsah převzal ZOK, místy v odlišné podobě. Změny sledovaly tři cíle: (a) znemožnit nový vznik listinných neimobilizovaných akcií na majitele, (b) zajistit identifikaci akcionářů s akciemi na jméno přes seznam akcionářů a bankovní účet a (c) zprůhlednit postavení akcionářů společností, které akcie nevydaly.

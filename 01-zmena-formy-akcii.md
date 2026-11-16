@@ -68,6 +68,11 @@ Vymezení je úzké a kumulativní: akcie musí být (a) **listinná**, (b) **na
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1795/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B89FCE871DB0756CC12583840037CAF1?openDocument) — 31. 10. 2018, kat. A
+  > „Sankce spočívající ve ztrátě oprávnění vykonávat práva spojená s akciemi, které akcionáři do 30. 6. 2014 nepředložili k vyznačení nezbytných údajů nebo k výměně za nové akcie na jméno ve smyslu § 3 odst. 1 zákona č. 134/2013 Sb., nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost vyzvala akcionáře, aby jí akcie předložili, respektive na to, jakou lhůtu jim k tomu společnost stanovila"
+
 #### Změna formy přímo ze zákona (odst. 1 věta první)
 
 K 1. lednu 2014 se listinné neimobilizované akcie na majitele **mění ze zákona** na listinné akcie na jméno. Nevyžaduje se rozhodnutí valné hromady ani jiný úkon společnosti či akcionáře; výměna listin nebo vyznačení údajů podle § 3 je až následným krokem, na němž účinnost změny nezávisí. Mění se jen **forma** (na majitele → na jméno), nikoli **podoba** (listinná akcie zůstává listinnou). Podle dnešní terminologie má akcie na jméno formu cenného papíru na řad a akcie na majitele formu cenného papíru na doručitele (§ 263 ZOK); od 1. 1. 2014 proto přeměněnou akcii nelze převést pouhým předáním, ale rubopisem a předáním (§ 269 odst. 1 ZOK, § 1103 odst. 2 občanského zákoníku) a s účinky vůči společnosti až po oznámení změny a předložení akcie (§ 269 odst. 2 ZOK). Na první převod navazuje zvláštní pravidlo § 7 odst. 5.
@@ -131,6 +136,11 @@ Listinné neimobilizované akcie na majitele se k 1. 1. 2014 změnily na akcie n
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1795/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B89FCE871DB0756CC12583840037CAF1?openDocument) — 31. 10. 2018, kat. A
+  > „Sankce spočívající ve ztrátě oprávnění vykonávat práva spojená s akciemi, které akcionáři do 30. 6. 2014 nepředložili k vyznačení nezbytných údajů nebo k výměně za nové akcie na jméno ve smyslu § 3 odst. 1 zákona č. 134/2013 Sb., nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost vyzvala akcionáře, aby jí akcie předložili, respektive na to, jakou lhůtu jim k tomu společnost stanovila"
+
 #### Dvě povinnosti akcionáře a pevná lhůta (odst. 1 věta první)
 
 Akcionář má dvě kumulativní povinnosti, obě splnitelné **nejpozději do 30. června 2014**: (a) **předložit akcie** společnosti k vyznačení nezbytných údajů nebo k výměně za nové akcie na jméno a (b) **sdělit údaje potřebné pro zápis do seznamu akcionářů**. Rozsah údajů určoval v rozhodné době zákon upravující seznam akcionářů — ObchZ ve znění § 8 bodu 3 ZTAS a od 1. 1. 2014 § 264 odst. 2 ZOK (mimo jiné jméno a bydliště nebo sídlo akcionáře, číslo bankovního účtu a číselné označení listinné akcie). Nesplnění kterékoli z obou povinností zakládá prodlení. Lhůta je **zákonná a pevná**; neprodlužuje ji ani nezkracuje rozhodnutí společnosti. Předkládací povinnost může za akcionáře plnit zástavní věřitel nebo jiná osoba, která má akcie u sebe (§ 5).
@@ -188,6 +198,11 @@ Akcionáři měli do 30. 6. 2014 předložit akcie a sdělit údaje pro seznam a
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1795/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B89FCE871DB0756CC12583840037CAF1?openDocument) — 31. 10. 2018, kat. A
+  > „Sankce spočívající ve ztrátě oprávnění vykonávat práva spojená s akciemi, které akcionáři do 30. 6. 2014 nepředložili k vyznačení nezbytných údajů nebo k výměně za nové akcie na jméno ve smyslu § 3 odst. 1 zákona č. 134/2013 Sb., nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost vyzvala akcionáře, aby jí akcie předložili, respektive na to, jakou lhůtu jim k tomu společnost stanovila"
+
 #### Trvalá ztráta práva na dividendu
 
 § 4 zpřísňuje obecnou sankci § 3 odst. 1: rozhodne-li společnost o rozdělení zisku v době, kdy je akcionář v prodlení s povinností podle § 3 odst. 1, **právo na dividendu k akciím, s nimiž je v prodlení, mu nevznikne**. Nejde o pouhé pozastavení výkonu práva, které by se po skončení prodlení „obnovilo“; pozdější splnění povinností již nezpůsobí, že by právo k danému rozhodnutí o rozdělení zisku vzniklo.
@@ -243,6 +258,11 @@ Kdo byl v den rozhodnutí valné hromady o rozdělení zisku v prodlení podle �
 > (3) Společnost vyznačí na akciích předkládaných jí podle odstavce 1 též existenci zástavního práva, i když nedochází k jejich výměně.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1795/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B89FCE871DB0756CC12583840037CAF1?openDocument) — 31. 10. 2018, kat. A
+  > „Sankce spočívající ve ztrátě oprávnění vykonávat práva spojená s akciemi, které akcionáři do 30. 6. 2014 nepředložili k vyznačení nezbytných údajů nebo k výměně za nové akcie na jméno ve smyslu § 3 odst. 1 zákona č. 134/2013 Sb., nastoupí bez ohledu na to, kdy (popřípadě zda vůbec) společnost vyzvala akcionáře, aby jí akcie předložili, respektive na to, jakou lhůtu jim k tomu společnost stanovila"
 
 #### Přenesení předkládací povinnosti (odst. 1)
 
